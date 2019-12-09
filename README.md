@@ -1,3 +1,4 @@
-# ds
+# Data Structure
 
-Data Structure Implementation
+- Stack ADT
+- Queue ADT
